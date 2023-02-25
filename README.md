@@ -35,6 +35,10 @@ i : insert
 ## gcc로 컴파일    
 gcc hello.c
 
+gcc -o test hello.c    
+
+현재 경로에서 hello.c라는 파일을 컴파일하여 test라는 이름으로 출력파일 생성
+
 ## a.out를 실행
 ./a.out
 
