@@ -30,6 +30,8 @@ i : insert
 
 종료 : ESC :q
 
+:/pattern/ = : pattern이 위치한 줄번호 보여주기
+
 ## gcc로 컴파일    
 gcc hello.c
 
